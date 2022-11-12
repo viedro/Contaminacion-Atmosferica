@@ -1,2 +1,4 @@
-# Contaminaci-n-Atmosf-rica
-Manejo de datos de contaminantes atmosféricos
+# Contaminacion-Atmosferica
+Promedios automatizados: horarios, diarios, semanales, mensuales, estacionales y anuales de contaminantes atmosféricos
+Zona de estudio: São Paulo (Brazil)
+
