@@ -3,3 +3,4 @@ Promedios automatizados: horarios, diarios, semanales, mensuales, estacionales y
 
 Zona de estudio: São Paulo (Brazil)
 
+Próximamente se hará aplicaciones usando la librería openair
